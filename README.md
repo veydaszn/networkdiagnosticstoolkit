@@ -12,7 +12,7 @@ A simple Networking & Configuration project used to perform real network checks.
 
 ## 🏗 How to Run
  1️⃣ Clone the repo
-    git clone https://github.com/yourusername/netdiag
+    git clone https://github.com/veydaszn/netdiag
     cd netdiag/src
 
 2️⃣ Run the main file
